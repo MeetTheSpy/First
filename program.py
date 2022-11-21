@@ -1,1 +1,1 @@
-commit
+print(2*20)
